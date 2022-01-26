@@ -1,0 +1,22 @@
+{
+
+  "name": "WoodenGear",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "bot.js",
+
+  "author": "Box",
+
+  "dependencies": {
+
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+
+    "winston": "^3.4.0"
+
+  }
+
+}
+
