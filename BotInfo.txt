@@ -1,2 +1,0 @@
-TOKEN: OTM1MTUzOTMxODk2NjQ3NzYx.Ye6f9w.xJuPdh6YfffUAtS5DWa_SKk_60U
-Url: https://discord.com/api/oauth2/authorize?client_id=935153931896647761&permissions=19456&scope=bot
