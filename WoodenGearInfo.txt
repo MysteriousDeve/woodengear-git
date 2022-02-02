@@ -1,0 +1,5 @@
+App ID: 935153931896647761
+Public Key: a83011a011c3f2fbac533ca9c1a0f12902b6edde9f366d27d5fe797b9d4b69b5
+TOKEN: yPegYmmoIW7tbPSFFsXwcoqhX5_oZsOf
+Client ID: 935153931896647761
+URL: https://discordapp.com/oauth2/authorize&client_id=935153931896647761&scope=bot&permissions=8
